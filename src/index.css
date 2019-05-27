@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.App{
+  margin:10px;
+  text-align: center;
+}
+
+.container{
+  margin:50px;
+  min-height: 200px;
+  background: palevioletred;
+}
+
+.toggle{
+  margin:50px;
+  min-height: 50px;
+  background:paleturquoise;
+
+}
